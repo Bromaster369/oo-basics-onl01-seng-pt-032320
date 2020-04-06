@@ -8,7 +8,7 @@ class Shoe
   
   def cobble
     puts "The show has been repaired"
-  
+  end
   
   
   
